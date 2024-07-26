@@ -36,7 +36,7 @@ The breakdown of the corpus by language pair and direction are presented in Tabl
 | Number of total (customer and agent) segments | 17,977 | 15,026 | 8,415 |
 
 ## License
-MAIA corpus is released under the Creative Commons public license Attribution-NoDerivatives 4.0 International ([CC BY-ND 4.0](https://creativecommons.org/licenses/by-nc/4.0)) and can be freely used for research purposes only.
+MAIA corpus is released under the Creative Commons public license Attribution-NonCommercial 4.0 International ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0)) and can be freely used for research purposes only.
 Please note that, as the license states, no commercial uses are permitted for this corpus.
 
 ## Citation
